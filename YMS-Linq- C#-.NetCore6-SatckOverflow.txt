@@ -1,0 +1,5 @@
+linq join two tables entity framework (google Search)
+
+https://www.youtube.com/watch?v=KgmMFFojhiA (Youtube)
+
+https://stackoverflow.com/questions/52000283/join-multiple-tables-and-single-output-using-entity-framework-mvc5
